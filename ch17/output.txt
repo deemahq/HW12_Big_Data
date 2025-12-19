@@ -1,0 +1,48 @@
+Authors Table:
+        first    last
+id                   
+1        Paul  Deitel
+2      Harvey  Deitel
+3       Abbey  Deitel
+4         Dan   Quirk
+5   Alexander    Wald
+
+Titles Table:
+         isbn                             title  edition copyright
+0  0135404673     Intro to Python for CS and DS        1      2020
+1  0132151006     Internet & WWW How to Program        5      2012
+2  0134743350               Java How to Program       11      2018
+3  0133976890                  C How to Program        8      2016
+4  0133406954  Visual Basic 2012 How to Program        6      2014
+5  0134601548          Visual C# How to Program        6      2017
+6  0136151574         Visual C++ How to Program        2      2008
+7  0134448235                C++ How to Program       10      2017
+8  0134444302            Android How to Program        3      2017
+9  0134289366         Android 6 for Programmers        3      2016
+
+Author_ISBN Table:
+    id        isbn
+0    1  0134289366
+1    2  0134289366
+2    5  0134289366
+3    1  0135404673
+4    2  0135404673
+5    1  0132151006
+6    2  0132151006
+7    3  0132151006
+8    1  0134743350
+9    2  0134743350
+10   1  0133976890
+11   2  0133976890
+12   1  0133406954
+13   2  0133406954
+14   3  0133406954
+15   1  0134601548
+16   2  0134601548
+17   1  0136151574
+18   2  0136151574
+19   4  0136151574
+20   1  0134448235
+21   2  0134448235
+22   1  0134444302
+23   2  0134444302
